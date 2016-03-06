@@ -1,7 +1,7 @@
 name: 'Edward T. Rostick & Associates'
 favicon: null
-layout_spectrum: 0.2887333142571151
-typography_spectrum: 0.9123999897856265
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.3527657287195325
-  lightness: 0.10421797959133983
-  saturation: 0.4652779509779066
-  rhythmicContrast: 0.9259691261686385
+  brandStrength: 0.1875
+  lightness: 0.8125
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
