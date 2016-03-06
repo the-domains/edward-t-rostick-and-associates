@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Edward T. Rostick & Associates]]></title>
         <description><![CDATA[Edward T. Rostick & Associates]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/edward-t-rostick-and-associates/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 17:40:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 17:53:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/edward-t-rostick-and-associates/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>EDWARD T. ROSTICK</p>]]></description>
+            <link>https://thegrid.ai/edward-t-rostick-and-associates/f90cf1a2-e005-4630-b836-d75700bf25b3/index.html</link>
+            <guid isPermaLink="false">f90cf1a2-e005-4630-b836-d75700bf25b3</guid>
+            <pubDate>Sun, 06 Mar 2016 17:53:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>THE FIRM</p>]]></description>
-            <link>undefined2f4b9988-aab2-4afa-99cc-5cbb03e4fa0a/index.html</link>
+            <link>https://thegrid.ai/edward-t-rostick-and-associates/2f4b9988-aab2-4afa-99cc-5cbb03e4fa0a/index.html</link>
             <guid isPermaLink="false">2f4b9988-aab2-4afa-99cc-5cbb03e4fa0a</guid>
             <pubDate>Sun, 06 Mar 2016 17:39:57 GMT</pubDate>
         </item>
